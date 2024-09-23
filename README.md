@@ -1,5 +1,5 @@
-# VAGA Estágio | Teste
-Exercícios propostos para a participação do processo seletivo na empresa Target Sistemas, todos desenvolvidos em Java.
+# VAGA Estágio | Exercícios propostos
+Este projeto tem como objetivo a minha participação no processo seletivo da empresa Target Sistemas, todos os códigos foram desenvolvidos em Java.
 
 ## 🔤 Projeto de Inversão de Palavras
 Este é um pequeno programa em Java que realiza a inversão de uma string. 
