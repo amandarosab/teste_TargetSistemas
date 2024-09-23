@@ -1,18 +1,25 @@
-## Getting Started
+# 💸 Faturamento diário de Distribuidora
+Este é um programa simples em Java que calcula o faturamento diário de uma distribuidora com base nos valores de diferentes estados. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Funcionalidades
+- O programa calcula o faturamento total com base nos valores das regiões mencionadas.
+- Em seguida, ele calcula e exibe o percentual de cada região em relação ao faturamento total.
+- Exibe o percentual de participação de São Paulo (SP), Rio de Janeiro (RJ), Minas Gerais (MG), Espírito Santo (ES) e "Outros" no console.
 
-## Folder Structure
+## Exemplo de Saída
 
-The workspace contains two folders by default, where:
+Título do programa: Faturamento diário da Distribuidora
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Percentual SP: 37.53%
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Percentual RJ: 20.29%
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Percentual MG: 16.18%
 
-## Dependency Management
+Percentual ES: 15.06%
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Percentual Outros: 10.95%
+
+## Pré-requisitos
+- JDK (Java Development Kit) instalado na máquina.
+- IDE por exemplo Eclipse ou VS Code
