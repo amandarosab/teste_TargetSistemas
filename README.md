@@ -3,7 +3,7 @@ Este projeto tem como objetivo a minha participação no processo seletivo da em
 
 ## 🔤 Projeto de Inversão de Palavras
 Este é um pequeno programa em Java que realiza a inversão de uma string. 
-- Utilizei como String o nome da empresa, ficando assim: sametsiS tegrat
+- Utilizei como reversed o nome da empresa, ficando assim: sametsiS tegrat
 
 ## 🧮 Verificador de Sequência de Fibonacci
 Este programa que verifica se um número pertence à sequência de Fibonacci. Ele funciona da seguinte maneira:
